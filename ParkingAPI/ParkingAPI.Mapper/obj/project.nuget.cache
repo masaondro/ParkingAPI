@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/5rX2DRnnat/uwJjoTy5uNOKy5JXtNWveYNYbnEgkm/0AEvQSxJJN9zuafw9u8t+bm8TUHypN/cco06dDg2DMg==",
+  "success": true,
+  "projectFilePath": "D:\\Arina\\Ryware\\ParkingAPI\\ParkingAPI.Mapper\\ParkingAPI.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arina\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Arina\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Arina\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

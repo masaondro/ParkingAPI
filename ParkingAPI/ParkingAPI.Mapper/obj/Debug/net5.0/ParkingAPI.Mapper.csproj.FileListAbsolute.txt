@@ -1,0 +1,17 @@
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Mapper\bin\Debug\net5.0\ParkingAPI.Mapper.deps.json
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Mapper\bin\Debug\net5.0\ParkingAPI.Mapper.dll
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Mapper\bin\Debug\net5.0\ref\ParkingAPI.Mapper.dll
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Mapper\bin\Debug\net5.0\ParkingAPI.Mapper.pdb
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Mapper\bin\Debug\net5.0\ParkingAPI.Contracts.dll
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Mapper\bin\Debug\net5.0\ParkingAPI.Domain.dll
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Mapper\bin\Debug\net5.0\ParkingAPI.Contracts.pdb
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Mapper\bin\Debug\net5.0\ParkingAPI.Domain.pdb
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Mapper\obj\Debug\net5.0\ParkingAPI.Mapper.csproj.AssemblyReference.cache
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Mapper\obj\Debug\net5.0\ParkingAPI.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Mapper\obj\Debug\net5.0\ParkingAPI.Mapper.AssemblyInfoInputs.cache
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Mapper\obj\Debug\net5.0\ParkingAPI.Mapper.AssemblyInfo.cs
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Mapper\obj\Debug\net5.0\ParkingAPI.Mapper.csproj.CoreCompileInputs.cache
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Mapper\obj\Debug\net5.0\ParkingAPI.Mapper.csproj.CopyComplete
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Mapper\obj\Debug\net5.0\ParkingAPI.Mapper.dll
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Mapper\obj\Debug\net5.0\ref\ParkingAPI.Mapper.dll
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Mapper\obj\Debug\net5.0\ParkingAPI.Mapper.pdb

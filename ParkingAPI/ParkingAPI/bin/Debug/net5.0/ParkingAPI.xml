@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ParkingAPI</name>
+    </assembly>
+    <members>
+        <member name="T:ParkingAPI.Controllers.ParkingController">
+            <summary>
+            Parking
+            </summary>
+        </member>
+        <member name="M:ParkingAPI.Controllers.ParkingController.Get">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ParkingAPI.Controllers.ParkingController.Add(ParkingAPI.Contracts.Parking.ParkingDTO)">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ParkingAPI.Controllers.ParkingController.Update(ParkingAPI.Contracts.Parking.ParkingDTO)">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ParkingAPI.Controllers.ParkingController.Delete(System.Guid)">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

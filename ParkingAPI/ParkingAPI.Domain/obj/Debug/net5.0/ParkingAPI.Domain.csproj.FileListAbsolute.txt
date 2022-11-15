@@ -1,0 +1,12 @@
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Domain\bin\Debug\net5.0\ParkingAPI.Domain.deps.json
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Domain\bin\Debug\net5.0\ParkingAPI.Domain.dll
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Domain\bin\Debug\net5.0\ref\ParkingAPI.Domain.dll
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Domain\bin\Debug\net5.0\ParkingAPI.Domain.pdb
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Domain\obj\Debug\net5.0\ParkingAPI.Domain.csproj.AssemblyReference.cache
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Domain\obj\Debug\net5.0\ParkingAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Domain\obj\Debug\net5.0\ParkingAPI.Domain.AssemblyInfoInputs.cache
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Domain\obj\Debug\net5.0\ParkingAPI.Domain.AssemblyInfo.cs
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Domain\obj\Debug\net5.0\ParkingAPI.Domain.csproj.CoreCompileInputs.cache
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Domain\obj\Debug\net5.0\ParkingAPI.Domain.dll
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Domain\obj\Debug\net5.0\ref\ParkingAPI.Domain.dll
+D:\Arina\Ryware\ParkingAPI\ParkingAPI.Domain\obj\Debug\net5.0\ParkingAPI.Domain.pdb
